@@ -1,0 +1,2 @@
+# soccer-metrics-project
+The main objective of this project is to identify and analyze a model which would help the clubs/manager/scout in predicting the player’s performance. We will develop a model that will help us to identify those attributes which are most important and helpful while predicting the overall potential, performance. Thus the result will help the clubs/managers/scouts to address poor performance well ahead in a more efficient and effective way so that better performance and better results can be obtained in time.
